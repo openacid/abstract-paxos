@@ -1,27 +1,26 @@
 universal:
-
   # globally unique
 
-  - "Leslie Lamport":    http://www.lamport.org/ "Leslie Lamport"
+  - "Leslie Lamport": http://www.lamport.org/ "Leslie Lamport"
   - "protobuf": https://developers.google.com/protocol-buffers
   # - "install-protoc": https://grpc.io/docs/protoc-installation/
-  - "grpc":     https://grpc.io/
+  - "grpc": https://grpc.io/
 
   - "ref-classic-paxos": http://lamport.azurewebsites.net/pubs/pubs.html#paxos-simple "classic paxos"
 
   # wiki
-  - "wiki-2pc":  https://en.wikipedia.org/wiki/Two-phase_commit_protocol "Two phase commit"
-  - "wiki-dict-order":  https://en.wikipedia.org/wiki/Lexicographic_order "Dictionary order"
+  - "wiki-2pc": https://en.wikipedia.org/wiki/Two-phase_commit_protocol "Two phase commit"
+  - "wiki-dict-order": https://en.wikipedia.org/wiki/Lexicographic_order "Dictionary order"
   - "wiki-partial-order": https://en.wikipedia.org/wiki/Partially_ordered_set "Partial Order"
   - "wiki-succinct": https://en.wikipedia.org/wiki/Succinct_data_structure "Succinct data structure"
   - "wiki-trie": https://en.wikipedia.org/wiki/Trie "trie"
 
-  - "wiki-偏序关系":  https://zh.wikipedia.org/wiki/偏序关系 "偏序关系"
+  - "wiki-偏序关系": https://zh.wikipedia.org/wiki/偏序关系 "偏序关系"
   - "wiki-前缀树": https://en.wikipedia.org/wiki/Trie "trie"
-  - "wiki-字典序":  https://zh.wikipedia.org/wiki/字典序 "字典序"
+  - "wiki-字典序": https://zh.wikipedia.org/wiki/字典序 "字典序"
 
   # ref and doc
-  - "ref-cpp-popcount":  https://en.cppreference.com/w/cpp/numeric/popcount "popcount"
+  - "ref-cpp-popcount": https://en.cppreference.com/w/cpp/numeric/popcount "popcount"
 
   # repo
   - "repo-abstract-paxos": https://github.com/openacid/abstract-paxos "abstract-paxos"
@@ -38,16 +37,15 @@ universal:
 
   # my articles
   - "post-zipf": https://blog.openacid.com/tech/zipf/  "互联网中对象访问频率的91分布"
-  - "post-paxos":  https://blog.openacid.com/algo/paxos/ "可靠分布式系统-paxos的直观解释"
+  - "post-paxos": https://blog.openacid.com/algo/paxos/ "可靠分布式系统-paxos的直观解释"
   - "post-paxoskv": https://blog.openacid.com/algo/paxoskv/ "200行代码实现基于paxos的kv存储"
   - "post-quorum": https://blog.openacid.com/algo/quorum/ "多数派读写的少数派实现"
   - "post-raft-bug": https://blog.openacid.com/algo/raft-bug/ "TiDB 在 Raft 成员变更上踩的坑"
 
-
 zhihu:
   # my articles
-  - "post-zipf":    https://zhuanlan.zhihu.com/p/94525243  "互联网中对象访问频率的91分布"
-  - "post-paxos":   https://zhuanlan.zhihu.com/p/145044486 "可靠分布式系统-paxos的直观解释"
+  - "post-zipf": https://zhuanlan.zhihu.com/p/94525243  "互联网中对象访问频率的91分布"
+  - "post-paxos": https://zhuanlan.zhihu.com/p/145044486 "可靠分布式系统-paxos的直观解释"
   - "post-paxoskv": https://zhuanlan.zhihu.com/p/275710507 "200行代码实现基于paxos的kv存储"
   - "post-quorum": https://zhuanlan.zhihu.com/p/267559303 "多数派读写的少数派实现"
   - "post-raft-bug": https://zhuanlan.zhihu.com/p/342319702 "TiDB 在 Raft 成员变更上踩的坑"
