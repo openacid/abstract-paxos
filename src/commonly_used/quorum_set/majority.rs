@@ -3,6 +3,11 @@ use std::collections::BTreeSet;
 use crate::QuorumSet;
 use crate::Types;
 
+/// Majority is the most simple **quorum** definition.
+///
+/// Any set of acceptors that has more than half of the whole set is a quorum.
+/// So that every majority quorum intersect with each other.
+/// And there is no differences between a read-quorum and a write-quorum.
 pub struct Majority<T: Types> {
     acceptor_ids: BTreeSet<T::AcceptorId>,
 }

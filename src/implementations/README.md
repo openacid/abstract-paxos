@@ -1,0 +1,1 @@
+Various distributed consensus algorithm implementations based on abstract-paxos.
