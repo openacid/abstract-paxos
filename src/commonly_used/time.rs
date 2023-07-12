@@ -1,5 +1,3 @@
-use crate::Time;
-
 pub struct BallotNumber {
     pub round: u64,
     pub leader: u64,
@@ -11,4 +9,4 @@ impl BallotNumber {
     }
 }
 
-impl Time for u64 {}
+// impl Time for u64 {}
